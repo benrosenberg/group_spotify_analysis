@@ -1,4 +1,4 @@
-## group_spotify_analysis
+## group spotify analysis
 analysis of spotify data from multiple people. 
 
 ## submitting data
