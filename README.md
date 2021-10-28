@@ -12,7 +12,9 @@ to get your spotify data, request it from the spotify website. ([link](https://w
 
 pull requests will be reviewed promptly and then the data will be added to our dataset for use in analysis.
 
-## goals (ranked roughly by difficulty)
+## goals 
+
+### data analysis goals (ranked roughly by difficulty)
 
 - [ ] make histograms of listening data by time of year, day of week, and hour of day
 - [ ] in what areas do submitters overlap in their listening habits? (tracks, artists, ...)
@@ -26,3 +28,7 @@ pull requests will be reviewed promptly and then the data will be added to our d
 - [ ] can we isolate "novelty tracks"? define a novelty track as one which does not fit in with the tracks listened to around it, e.g. [half of a taylor swift album] + [politikz: "real hip hop"] + [the other half of the taylor swift album] => [politikz: "real hip hop"] is a "novelty track". we expect these tracks to include such titles as tay-k: "the race", and bhad bhabie: "gucci flip flops". can we get a list of these such tracks?
 - [ ] sentiment analysis (lyrics of songs from another api): can we determine the efficacy of spotify's api regarding the genre of a track by comparing it to a sentiment analysis of its lyrics? can we go the other way -- that is, could we train a sentiment analysis model based on lyrics + the spotify api's genre assignment for that track?
 - [ ] can we check the efficacy of spotify's playlist shuffling? we'd determine whether, in a given span of tracks, a user is listening to a playlist. then, we'd determine whether the playlist is in order given the original ordering, and then convert the song orders to indices in future playlist-listening-sessions. with these groups of indices, can we reverse-engineer the spotify playlist-shuffling algorithm?
+
+### other goal(s)
+
+- [ ] make a web frontend for looking at the data analysis (searchable by user)
