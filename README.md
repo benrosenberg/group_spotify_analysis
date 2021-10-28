@@ -11,7 +11,7 @@ to get your spotify data, request it from the spotify website. ([link](https://w
 ### if you have no idea what github is...
 if you have no idea what github is then:
 
-4. email that newly created zip folder to  benrosenberg42 (at) gmail (dot) com
+4. email that newly created zip folder to  benjaminrosenberg42 (at) gmail (dot) com
 
 we'll do the legwork for you.
 
