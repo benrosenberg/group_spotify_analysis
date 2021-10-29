@@ -9,7 +9,7 @@ to get your spotify data, request it from the spotify website. ([link](https://w
 3. re-zip this folder and name the zip file `firstname_lastname.zip`
 4. email that newly created zip folder to  benjaminrosenberg42 (at) gmail (dot) com
 
-we'll do the legwork for you and include your spotify data in the analysis anonymously.
+we'll do the legwork for you and include your spotify data in the analysis **anonymously**. the only people who have access to your spotify data are [Ben Rosenberg](https://www.linkedin.com/in/ben-rosenberg-0b5359205/), [Julia Ruskin](https://www.linkedin.com/in/julia-ruskin-24826519b/), and [Zach Katz](https://www.linkedin.com/in/zachary-katz-8a826216a/).
 
 pull requests will be reviewed promptly and then the data will be added to our dataset for use in analysis.
 
