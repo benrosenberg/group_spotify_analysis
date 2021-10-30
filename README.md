@@ -18,6 +18,7 @@ your data will be reviewed promptly and then the data will be added to our datas
 ### data analysis goals (ranked roughly by difficulty)
 
 - make histograms of listening data by time of year, day of week, and hour of day
+- quantify addictedness to a song, i.e. how long is a song listened to the same time in a row?
 - in what areas do submitters overlap in their listening habits? (tracks, artists, ...)
 - visualize the density of track listens by release date. are people listening to songs released in a specific timeframe?
 - make video of top artists over time (see [here](https://www.youtube.com/watch?v=4f6-MDhygWc) for reference video)
