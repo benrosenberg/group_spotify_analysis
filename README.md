@@ -34,3 +34,7 @@ your data will be reviewed promptly and then the data will be added to our datas
 ### other goal(s)
 
 - make a web frontend for looking at the data analysis (searchable by user)
+
+## result distribution
+
+when the results have been finalized, we will make a presentation showcasing the data analysis as defined by the above goals. furthermore, the web frontend will allow users to view their own individual results insofar as the above analyses are concerned. identifiers will be distributed to all data submitters, which will be used to access individual results on the web frontend. there will be an option for comparing results of analyses between submitters, provided that you know other submitters' identifiers. 
