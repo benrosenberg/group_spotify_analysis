@@ -37,4 +37,6 @@ your data will be reviewed promptly and then the data will be added to our datas
 
 ## result distribution
 
-when the results have been finalized, we will make a presentation showcasing the data analysis as defined by the above goals. furthermore, the web frontend will allow users to view their own individual results insofar as the above analyses are concerned. identifiers will be distributed to all data submitters, which will be used to access individual results on the web frontend. there will be an option for comparing results of analyses between submitters, provided that you know other submitters' identifiers. 
+when the results have been finalized, we will make a presentation showcasing the data analysis as defined by the above goals. we estimate that we will be finished with our analysis sometime during winter break (january 2022). a zoom meeting will be held for all data submitters who wish to have the final results presented to them. (if there are concerns regarding anonymity, some other service can be used to stream the presentation instead, such as youtube or twitch, or alternatively, a video of the presentation may be made available.)
+
+furthermore, the web frontend will allow users to view their own individual results insofar as the above analyses are concerned. identifiers will be distributed to all data submitters, which will be used to access individual results on the web frontend. there will be an option for comparing results of analyses between submitters, provided that you know other submitters' identifiers. 
